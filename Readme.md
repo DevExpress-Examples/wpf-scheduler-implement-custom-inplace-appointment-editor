@@ -3,18 +3,24 @@
 [![](https://img.shields.io/badge/Open_in_DevExpress_Support_Center-FF7200?style=flat-square&logo=DevExpress&logoColor=white)](https://supportcenter.devexpress.com/ticket/details/T545686)
 [![](https://img.shields.io/badge/📖_How_to_use_DevExpress_Examples-e9f6fc?style=flat-square)](https://docs.devexpress.com/GeneralInformation/403183)
 <!-- default badges end -->
-<!-- default file list -->
-*Files to look at*:
 
-* [MainWindow.xaml](./CS/CustomInplaceEditorExample/MainWindow.xaml) (VB: [MainWindow.xaml](./VB/CustomInplaceEditorExample/MainWindow.xaml))
-* [MainWindow.xaml.cs](./CS/CustomInplaceEditorExample/MainWindow.xaml.cs) (VB: [MainWindow.xaml.vb](./VB/CustomInplaceEditorExample/MainWindow.xaml.vb))
+# WPF Scheduler - Implement a Custom In-Place Appointment Editor
+
+This example demonstrates how to create a data template to customize an appointment in-place editor ([AppointmentControl.EditTemplate](https://docs.devexpress.com/WPF/DevExpress.Xpf.Scheduling.Visual.AppointmentControl.EditTemplate)). The Scheduler control displays this editor when a user presses the `Enter` key to add a new appointment or presses the `F2` key to edit the appointment subject.
+
+![image](https://github.com/DevExpress-Examples/how-to-implement-a-custom-in-place-appointment-editor-t545686/assets/65009440/a2077a1a-861b-43cf-9888-15c19c6736e1)
+
+## Files to Review
+
+* [MainWindow.xaml](./CS/CustomInplaceEditorExample/MainWindow.xaml)
 * [MainViewModel.cs](./CS/CustomInplaceEditorExample/ViewModel/MainViewModel.cs) (VB: [MainViewModel.vb](./VB/CustomInplaceEditorExample/ViewModel/MainViewModel.vb))
-<!-- default file list end -->
-# How to implement a custom in-place appointment editor
 
+## Documentation
 
-This example follows the <a href="http://help.devexpress.com/#WPF/CustomDocument115449">How to: Customize the In-Place Editor</a> topic and demonstrates how to create a data template to customize an appointment in-place editor.<br><br>.
+* [Customize the In-Place Editor](https://docs.devexpress.com/WPF/115449/controls-and-libraries/scheduler/examples/how-to-customize-the-in-place-editor)
+* [AppointmentControl.EditTemplate](https://docs.devexpress.com/WPF/DevExpress.Xpf.Scheduling.Visual.AppointmentControl.EditTemplate)
 
-<br/>
+## More Examples
 
-
+* [WPF Scheduler - Customize Appointment Appearance](https://github.com/DevExpress-Examples/how-to-customize-the-appointment-appearance-t545892)
+* [WPF Scheduler - Speify Custom Edit and Recurrence Dialogs](https://github.com/DevExpress-Examples/how-to-create-a-scheduling-application-which-uses-custom-editing-and-recurrence-dialog-t545486)
