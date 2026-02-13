@@ -26,7 +26,7 @@ This example demonstrates how to create a data template to customize an appointm
 * [WPF Scheduler - Customize Appointment Appearance](https://github.com/DevExpress-Examples/how-to-customize-the-appointment-appearance-t545892)
 * [WPF Scheduler - Specify Custom Edit and Recurrence Dialogs](https://github.com/DevExpress-Examples/how-to-create-a-scheduling-application-which-uses-custom-editing-and-recurrence-dialog-t545486)
 <!-- feedback -->
-## Does this example address your development requirements/objectives?
+## Does This Example Address Your Development Requirements/Objectives?
 
 [<img src="https://www.devexpress.com/support/examples/i/yes-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=wpf-scheduler-implement-custom-inplace-appointment-editor&~~~was_helpful=yes) [<img src="https://www.devexpress.com/support/examples/i/no-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=wpf-scheduler-implement-custom-inplace-appointment-editor&~~~was_helpful=no)
 
